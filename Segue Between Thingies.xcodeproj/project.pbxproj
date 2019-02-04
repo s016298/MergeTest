@@ -14,6 +14,7 @@
 		0AC0EC042208B65A001AF167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC0EC022208B65A001AF167 /* LaunchScreen.storyboard */; };
 		0AC0EC0F2208B65A001AF167 /* Segue_Between_ThingiesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC0EC0E2208B65A001AF167 /* Segue_Between_ThingiesTests.swift */; };
 		0AC0EC1A2208B65A001AF167 /* Segue_Between_ThingiesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AC0EC192208B65A001AF167 /* Segue_Between_ThingiesUITests.swift */; };
+		0AC0EC282208B702001AF167 /* Another.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AC0EC272208B702001AF167 /* Another.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		0AC0EC152208B65A001AF167 /* Segue Between ThingiesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Segue Between ThingiesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AC0EC192208B65A001AF167 /* Segue_Between_ThingiesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Segue_Between_ThingiesUITests.swift; sourceTree = "<group>"; };
 		0AC0EC1B2208B65A001AF167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AC0EC272208B702001AF167 /* Another.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Another.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				0AC0EBF92208B653001AF167 /* AppDelegate.swift */,
 				0AC0EBFB2208B653001AF167 /* ViewController.swift */,
 				0AC0EBFD2208B653001AF167 /* Main.storyboard */,
+				0AC0EC272208B702001AF167 /* Another.storyboard */,
 				0AC0EC002208B65A001AF167 /* Assets.xcassets */,
 				0AC0EC022208B65A001AF167 /* LaunchScreen.storyboard */,
 				0AC0EC052208B65A001AF167 /* Info.plist */,
@@ -231,6 +234,7 @@
 			files = (
 				0AC0EC042208B65A001AF167 /* LaunchScreen.storyboard in Resources */,
 				0AC0EC012208B65A001AF167 /* Assets.xcassets in Resources */,
+				0AC0EC282208B702001AF167 /* Another.storyboard in Resources */,
 				0AC0EBFF2208B653001AF167 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
